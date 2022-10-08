@@ -1,5 +1,5 @@
-# PC5_Tugas1_nim
-### Nama
+# PC5_Tugas1_201401095
+# Ammar Wahyudi
 ### PC 5
 
 
